@@ -1,0 +1,8 @@
+data/*
+deps/*
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+.DS_Store
+helpers/__pycache__
+__pycache__
